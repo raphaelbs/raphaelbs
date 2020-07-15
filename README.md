@@ -28,6 +28,4 @@ I'm Raphael Brandão, a millennial, tech enthusiast and programmer by vocation.
 
 </details>
 
-___
-
 [![HitCount](http://hits.dwyl.com/raphaelbs/raphaelbs.svg)](http://hits.dwyl.com/raphaelbs/raphaelbs)
