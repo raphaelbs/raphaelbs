@@ -9,19 +9,8 @@
 
 I'm Raphael Brandão, a millennial, tech enthusiast and programmer by vocation.
 
-- 🔭 Working fulltime on **Web performance and development experience for webdevs** on [QuintoAndar](https://carreiras.quintoandar.com.br/)
+- 🔭 Working fulltime **developing front-end applications** at [Talkdesk](https://www.talkdesk.com/careers/td)
 - 📫 Reach me on email at [raphael.b.souza@hotmail.com](mailto:raphael.b.souza@hotmail.com)
-
-<details>
-  <summary>More about me</summary>
-
-  <ul>
-  <li>I love messing around with hardware</li>
-  <li>I do own a 3D printer (that I built and rebuild several times by now)
-  </li>
-  <li>I also have made a toy CNC
-  </li>
-</ul>
 
 <h4>My Github stats</h4>
 
